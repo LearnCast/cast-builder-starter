@@ -1,5 +1,7 @@
 # Castbuilder Starter
 
+<img src="https://raw.githubusercontent.com/LearnCast/core/main/logo/new-logo-gold-banner-black-bg.svg" />
+
 This example shows a very basic version of a *Castbuilder* project with Next.js. 
 
 - There's one page, `pages/index.js`, that shows the visual editor (in development) and the compiled version (in production). 
