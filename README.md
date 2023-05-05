@@ -1,6 +1,6 @@
 # Castbuilder Starter
 
-This example shows a very basic version of a *Destack* project with Next.js. 
+This example shows a very basic version of a *Castbuilder* project with Next.js. 
 
 - There's one page, `pages/index.js`, that shows the visual editor (in development) and the compiled version (in production). 
 - All the magic is done in, `pages/api/builder/handle.js`, that has to be setup once and handles templates saving and loading.
@@ -9,9 +9,9 @@ This example shows a very basic version of a *Destack* project with Next.js.
 
 Deploy the example using [Vercel](https://vercel.com) or preview in Gitpod:
 
-[<img src="https://raw.githubusercontent.com/learncast/cast-builder-starter/main/assets/deploy/vercel_big.png" width="92">](https://vercel.com/new/git/external?repository-url=https://github.com/LiveDuo/destack-starter&project-name=destack-starter&repository-name=destack-starter)
+[<img src="https://raw.githubusercontent.com/learncast/cast-builder-starter/main/assets/deploy/vercel_big.png" width="92">](https://vercel.com/new/git/external?repository-url=https://github.com/learncast/cast-builder-starter&project-name=cast-builder-starter&repository-name=destack-starter)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/learncast/cast-builder-starter/main/assets/deploy/gitpod_big.png" width="92">](https://gitpod.io/#https://github.com/LiveDuo/destack-starter)
+[<img src="https://raw.githubusercontent.com/learncast/cast-builder-starter/main/assets/deploy/gitpod_big.png" width="92">](https://gitpod.io/#https://github.com/learncast/cast-builder-starter)
 
 
 ## How to
